@@ -1,0 +1,7 @@
+The Decorator Pattern
+
+Definition:
+The Decorator Pattern attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+
+Design Principles:
+1. Classes should be open for extention, but closed for modification.
