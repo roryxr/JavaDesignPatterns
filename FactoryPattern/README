@@ -1,0 +1,13 @@
+The Factory Pattern
+
+Definition:
+The Factory Method Pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
+
+Design Principle:
+1. Depend upon abstractions. Do not depend upon concrete classes. (Dependency Inversion Principle).
+
+
+The Abstract Factory Pattern
+
+Definition:
+The Abstarct Factory Pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes.
